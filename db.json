@@ -1,0 +1,23 @@
+{
+  "applicatifs": [
+    { "code": "BI", "libelle": "B.I", "dateDebutActivite": "2023-03-09", "dateFinActivite": "2023-03-09", "commentaire": "test", "dateCreation": "2023-03-09", "dateModification": "2023-03-09" },
+    { "code": "REFERENTIEL", "libelle": "Referentiel", "dateDebutActivite": "2023-03-09", "dateFinActivite": "2023-03-09", "commentaire": "test", "dateCreation": "2023-03-09", "dateModification": "2023-03-09" },
+    { "code": "AB", "libelle": "A.B", "dateDebutActivite": "2023-03-09", "dateFinActivite": "2023-03-09", "commentaire": "test", "dateCreation": "2023-03-09", "dateModification": "2023-03-09" },
+    { "code": "BC", "libelle": "B.C", "dateDebutActivite": "2023-03-09", "dateFinActivite": "2023-03-09", "commentaire": "test", "dateCreation": "2023-03-09", "dateModification": "2023-03-09" },
+    { "code": "CD", "libelle": "C.D", "dateDebutActivite": "2023-03-09", "dateFinActivite": "2023-03-09", "commentaire": "test", "dateCreation": "2023-03-09", "dateModification": "2023-03-09" },
+    { "code": "DE", "libelle": "D.E", "dateDebutActivite": "2023-03-09", "dateFinActivite": "2023-03-09", "commentaire": "test", "dateCreation": "2023-03-09", "dateModification": "2023-03-09" },
+    { "code": "FG", "libelle": "F.G", "dateDebutActivite": "2023-03-09", "dateFinActivite": "2023-03-09", "commentaire": "test", "dateCreation": "2023-03-09", "dateModification": "2023-03-09" },
+    { "code": "GH", "libelle": "G.H", "dateDebutActivite": "2023-03-09", "dateFinActivite": "2023-03-09", "commentaire": "test", "dateCreation": "2023-03-09", "dateModification": "2023-03-09" }
+],
+  "collaborateurs": [
+    { "code": “, "Nom": "Villegas", "prenom": "Roderick", "mail": "rvillegas@mail.com", "contrat": "CDD", "dateDebutActivite": "2022-03-09", "dateFinActivite": "2023-03-09", "localisation": "Nantes", "salaire": "1500", },
+    { "code": “, "Nom": "Dickerson", "prenom": "Richard", "mail": "rdickerson@mail.com", "contrat": "CDI", "dateDebutActivite": "2022-03-09", "dateFinActivite": "", "localisation": "Paris", "salaire": "2500", },
+    { "code": “, "Nom": "Vaughan", "prenom": "Gilbert", "mail": "gvaughan@mail.com", "contrat": "CDI", "dateDebutActivite": "2022-03-09", "dateFinActivite": "", "localisation": "Nantes", "salaire": "3500", },
+    { "code": “, "Nom": "Kaiser", "prenom": "Myron", "mail": "mkaiser@mail.com", "contrat": "CDD", "dateDebutActivite": "2022-03-09", "dateFinActivite": "2023-03-09", "localisation": "Paris", "salaire": "4500", },
+    { "code": “, "Nom": "Trujillo", "prenom": "Lara", "mail": "ltrujillo@mail.com", "contrat": "CDD", "dateDebutActivite": "2022-03-09", "dateFinActivite": "2023-03-09", "localisation": "Nantes", "salaire": "1500", },
+    { "code": “, "Nom": "Rivera", "prenom": "Lily", "mail": "lrivera@mail.com", "contrat": "CDI", "dateDebutActivite": "2022-03-09", "dateFinActivite": " ", "localisation": "Paris", "salaire": "2500", },
+    { "code": “, "Nom": "Schroeder", "prenom": "Elvira", "mail": "eschroeder@mail.com", "contrat": "CDI", "dateDebutActivite": "2022-03-09", "dateFinActivite": " ", "localisation": "Nantes", "salaire": "3500", },
+    { "code": “, "Nom": "Cantrell", "prenom": "Catherine", "mail": "ccantrell@mail.com", "contrat": "CDD", "dateDebutActivite": "2022-03-09", "dateFinActivite": "2023-03-09", "localisation": "Paris", "salaire": "4500", }
+  ]
+ }
+
