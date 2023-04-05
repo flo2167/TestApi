@@ -17,7 +17,7 @@
     { "code": "CDI01", "Nom": "Dickerson", "prenom": "Richard", "mail": "rdickerson@mail.com", "contrat": "CDI", "dateDebutActivite": "2022-03-09", "dateFinActivite": "", "localisation": "Paris", "salaire": "2500"},
     { "code": "CDI02", "Nom": "Vaughan", "prenom": "Gilbert", "mail": "gvaughan@mail.com", "contrat": "CDI", "dateDebutActivite": "2022-03-09", "dateFinActivite": "", "localisation": "Nantes", "salaire": "3500"},
     { "code": "CDI03", "Nom": "Rivera", "prenom": "Lily", "mail": "lrivera@mail.com", "contrat": "CDI", "dateDebutActivite": "2022-03-09", "dateFinActivite": "", "localisation": "Paris", "salaire": "2500"},
-    { "code": "CDI04", "Nom": "Schroeder", "prenom": "Elvira", "mail": "eschroeder@mail.com", "contrat": "CDI", "dateDebutActivite": "2022-03-09", "dateFinActivite": "", "localisation": "Nantes", "salaire": "3500"},
+    { "code": "CDI04", "Nom": "Schroeder", "prenom": "Elvira", "mail": "eschroeder@mail.com", "contrat": "CDI", "dateDebutActivite": "2022-03-09", "dateFinActivite": "", "localisation": "Nantes", "salaire": "3500"}
   ]
  }
 
