@@ -21,7 +21,7 @@
   ],
   "all": [
     {"code": "01", "libelle": "applicatifs"},
-    {"code": "02", "libelle": "collaborateurs"},
+    {"code": "02", "libelle": "collaborateurs"}
   ]
  }
 
