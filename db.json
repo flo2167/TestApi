@@ -20,7 +20,7 @@
     { "code": "CDI04", "nom": "Schroeder", "prenom": "Elvira", "mail": "eschroeder@mail.com", "contrat": "CDI", "dateDebutActivite": "2022-03-09", "dateFinActivite": "", "localisation": "Nantes", "salaire": "3500"}
 ],
   "all": [
-    { "code": "01", "libelle": "applicatifs" }
+    { "code": "01", "libelle": "applicatifs" },
     { "code": "02", "libelle": "collaborateurs" }
   ]
  }
