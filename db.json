@@ -10,14 +10,14 @@
     { "id": "GH", "libelle": "G.H", "dateDebutActivite": "2023-03-09", "dateFinActivite": "2023-03-09", "commentaire": "test", "dateCreation": "2023-03-09", "dateModification": "2023-03-09" }
 ],
   "collaborateurs": [
-    { "code": "CDD01", "nom": "Villegas", "prenom": "Roderick", "mail": "rvillegas@mail.com", "contrat": "CDD", "dateDebutActivite": "2022-03-09", "dateFinActivite": "2023-03-09", "localisation": "Nantes", "salaire": "1500"},
-    { "code": "CDD02", "nom": "Kaiser", "prenom": "Myron", "mail": "mkaiser@mail.com", "contrat": "CDD", "dateDebutActivite": "2022-03-09", "dateFinActivite": "2023-03-09", "localisation": "Paris", "salaire": "4500"},
-    { "code": "CDD03", "nom": "Trujillo", "prenom": "Lara", "mail": "ltrujillo@mail.com", "contrat": "CDD", "dateDebutActivite": "2022-03-09", "dateFinActivite": "2023-03-09", "localisation": "Nantes", "salaire": "1500"},
-    { "code": "CDD04", "nom": "Cantrell", "prenom": "Catherine", "mail": "ccantrell@mail.com", "contrat": "CDD", "dateDebutActivite": "2022-03-09", "dateFinActivite": "2023-03-09", "localisation": "Paris", "salaire": "4500"},
-    { "code": "CDI01", "nom": "Dickerson", "prenom": "Richard", "mail": "rdickerson@mail.com", "contrat": "CDI", "dateDebutActivite": "2022-03-09", "dateFinActivite": "", "localisation": "Paris", "salaire": "2500"},
-    { "code": "CDI02", "nom": "Vaughan", "prenom": "Gilbert", "mail": "gvaughan@mail.com", "contrat": "CDI", "dateDebutActivite": "2022-03-09", "dateFinActivite": "", "localisation": "Nantes", "salaire": "3500"},
-    { "code": "CDI03", "nom": "Rivera", "prenom": "Lily", "mail": "lrivera@mail.com", "contrat": "CDI", "dateDebutActivite": "2022-03-09", "dateFinActivite": "", "localisation": "Paris", "salaire": "2500"},
-    { "code": "CDI04", "nom": "Schroeder", "prenom": "Elvira", "mail": "eschroeder@mail.com", "contrat": "CDI", "dateDebutActivite": "2022-03-09", "dateFinActivite": "", "localisation": "Nantes", "salaire": "3500"}
+    { "id": "CDD01", "nom": "Villegas", "prenom": "Roderick", "mail": "rvillegas@mail.com", "contrat": "CDD", "dateDebutActivite": "2022-03-09", "dateFinActivite": "2023-03-09", "localisation": "Nantes", "salaire": "1500"},
+    { "id": "CDD02", "nom": "Kaiser", "prenom": "Myron", "mail": "mkaiser@mail.com", "contrat": "CDD", "dateDebutActivite": "2022-03-09", "dateFinActivite": "2023-03-09", "localisation": "Paris", "salaire": "4500"},
+    { "id": "CDD03", "nom": "Trujillo", "prenom": "Lara", "mail": "ltrujillo@mail.com", "contrat": "CDD", "dateDebutActivite": "2022-03-09", "dateFinActivite": "2023-03-09", "localisation": "Nantes", "salaire": "1500"},
+    { "id": "CDD04", "nom": "Cantrell", "prenom": "Catherine", "mail": "ccantrell@mail.com", "contrat": "CDD", "dateDebutActivite": "2022-03-09", "dateFinActivite": "2023-03-09", "localisation": "Paris", "salaire": "4500"},
+    { "id": "CDI01", "nom": "Dickerson", "prenom": "Richard", "mail": "rdickerson@mail.com", "contrat": "CDI", "dateDebutActivite": "2022-03-09", "dateFinActivite": "", "localisation": "Paris", "salaire": "2500"},
+    { "id": "CDI02", "nom": "Vaughan", "prenom": "Gilbert", "mail": "gvaughan@mail.com", "contrat": "CDI", "dateDebutActivite": "2022-03-09", "dateFinActivite": "", "localisation": "Nantes", "salaire": "3500"},
+    { "id": "CDI03", "nom": "Rivera", "prenom": "Lily", "mail": "lrivera@mail.com", "contrat": "CDI", "dateDebutActivite": "2022-03-09", "dateFinActivite": "", "localisation": "Paris", "salaire": "2500"},
+    { "id": "CDI04", "nom": "Schroeder", "prenom": "Elvira", "mail": "eschroeder@mail.com", "contrat": "CDI", "dateDebutActivite": "2022-03-09", "dateFinActivite": "", "localisation": "Nantes", "salaire": "3500"}
 ],
   "all": [
     { "libelle": "applicatifs" },
